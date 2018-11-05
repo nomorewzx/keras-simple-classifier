@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+data/
+*.npy
+*.h5
+preview/
